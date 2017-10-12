@@ -10,5 +10,7 @@ same h5 example
 ## mainy
 - h5单页框架
 
-## 页面加载效果
-- [pace.js](https://github.com/HubSpot/pace)
+## load
+- 页面加载
+- [pace.js github](https://github.com/HubSpot/pace)
+- [pace.js welcome](http://github.hubspot.com/pace/docs/welcome/)
