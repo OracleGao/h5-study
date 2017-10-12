@@ -14,3 +14,6 @@ same h5 example
 - 页面加载
 - [pace.js github](https://github.com/HubSpot/pace)
 - [pace.js welcome](http://github.hubspot.com/pace/docs/welcome/)
+
+## notice
+- 公告动画弹层效果
