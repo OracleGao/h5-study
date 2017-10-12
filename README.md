@@ -11,4 +11,4 @@ same h5 example
 - h5单页框架
 
 ## 页面加载效果
-- (pace.js)[https://github.com/HubSpot/pace]
+- [pace.js](https://github.com/HubSpot/pace)
